@@ -734,7 +734,7 @@ sys.getsizeof(1)*len(py_ar)
 ```python
 np_ar.itemsize*np_ar.size
 
-### that is why we use numpy array 
+### that's why we use numpy array 
 ```
 
 
