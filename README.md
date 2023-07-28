@@ -169,7 +169,7 @@ print(emp_like)
 ide=np.identity(23)
 print(ide)
 
-###it will give 23*23 identity matrix
+###it will give 23*23 identity matrix as we give size 23 in .identity method
 ```
 
     [[1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
